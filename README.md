@@ -16,3 +16,6 @@ Hack cameras like a hacker.
 -  `cd Cam-Hackers`
 
 -  `python3 cam-hackers.py`
+
+## notes ##
+This software is only for educational purposes.
