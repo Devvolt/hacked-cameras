@@ -29,3 +29,5 @@ Hack cameras like a hacker.
 
 ## notes ##
 This software is only for educational purposes.
+
+Code written by gianmapr.
